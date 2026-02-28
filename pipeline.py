@@ -8,3 +8,10 @@ def read_data(filename):
 
 def count_rows(rows):
     return len(rows)
+
+def main():
+    filename = "data.csv"
+    rows = read_data(filename)
+    print(f"Total rows in pipeline: {count_rows(rows)}")
+
+main()
