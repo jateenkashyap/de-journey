@@ -13,5 +13,6 @@ def main():
     filename = "data.csv"
     rows = read_data(filename)
     print(f"Total rows processed: {count_rows(rows)}")
+    print("# Feature work in progress")
 
 main()
