@@ -1,6 +1,2 @@
-# DE Journey
-
-Learning data engineering from scratch.
-
-## Status
-Week 1 complete!
+## Pipeline
+Work in progress by the team.
