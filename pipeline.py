@@ -12,6 +12,6 @@ def count_rows(rows):
 def main():
     filename = "data.csv"
     rows = read_data(filename)
-    print(f"Total rows in pipeline: {count_rows(rows)}")
+    print(f"Total rows processed: {count_rows(rows)}")
 
 main()
