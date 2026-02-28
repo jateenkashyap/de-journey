@@ -5,3 +5,6 @@ def read_data(filename):
         reader = csv.reader(file)
         rows = list(reader)
     return rows
+
+def count_rows(rows):
+    return len(rows)
