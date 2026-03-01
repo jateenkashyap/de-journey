@@ -1,2 +1,3 @@
-## Pipeline
-Work in progress by the team.
+## Progress
+- [x] Week 1 - Git Fundamentals
+- [x] Week 2 - GitHub Setup
