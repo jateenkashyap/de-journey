@@ -23,7 +23,7 @@ AA structured 6-month hands-on journey to learn data engineering from scratch �
 
 ## 📋 Progress
 
-- [x] Month 1 — Environment Setup & Git fundamentals
+- [x] Month 1 — Environment Setup & Git fundamentals *(completed: March 2026)*
 - [ ] Month 2 — Data Ingestion
 - [ ] Month 3 — Databases & SQL
 - [ ] Month 4 — Pipeline Orchestration
