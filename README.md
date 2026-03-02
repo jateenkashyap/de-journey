@@ -4,7 +4,7 @@ A 6-month hands-on data engineering learning journey — built in public.
 ---
 
 ## 🔨 What I'm Building
-AI-Powered Business Intelligence Platform automated from end to end.
+AA structured 6-month hands-on journey to learn data engineering from scratch — covering Python, SQL, cloud storage, and pipeline orchestration. Each month builds on the previous one, with the goal of developing real, employable data engineering skills that work alongside modern AI tools.
 
 ---
 
