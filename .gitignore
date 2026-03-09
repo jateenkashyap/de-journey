@@ -6,3 +6,13 @@ __pycache__/
 Resources/
 Roadmap/
 python/
+
+# Data files - never commit these
+month_02/data/raw/*
+month_02/data/processed/*
+month_02/logs/*
+
+# Keep folder structure
+!month_02/data/raw/.gitkeep
+!month_02/data/processed/.gitkeep
+!month_02/logs/.gitkeep
